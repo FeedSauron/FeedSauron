@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FeedSauron
+- 🌱 I’m currently learning ...
+- I'm learning Javascript, C, and a bunch of other stuff.
